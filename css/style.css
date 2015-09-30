@@ -105,7 +105,12 @@ a:hover, a:focus, a:active, a:visited {
 .side-menu ul li a:hover span.dot {
 	transform: scale(1.8);
 }
-
+.proto-header {
+	background: #000;
+	min-height: 20px;
+	padding: 1em;
+	color: #fff;
+}
 
 .hero-header {
 	background: #133F7F;
