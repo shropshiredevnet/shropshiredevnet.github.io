@@ -32,8 +32,8 @@ a:hover, a:focus, a:active, a:visited {
     line-height: none;
     border-radius: 4px;
 }
-.btn-red {
-	background-color: #dd5138;
+.btn-tix {
+	background-color: #AFC035;
 	color: #fff;
 }
 .btn-yellow {
@@ -75,7 +75,7 @@ a:hover, a:focus, a:active, a:visited {
     margin-right: 10px;
     text-transform: uppercase;
     font-size: 12px;
-    background-color: #dd5138;
+    background-color: #AFC035;
     padding: 3px 10px;
     font-weight: 600;
     border-radius: 3px;
@@ -94,7 +94,7 @@ a:hover, a:focus, a:active, a:visited {
 }
 .side-menu ul li a span.dot {
     position: relative;
-    background-color: #dd5138;
+    background-color: #AFC035;
     border-radius: 2em;
     height: 10px;
     width: 10px;
@@ -108,10 +108,10 @@ a:hover, a:focus, a:active, a:visited {
 
 
 .hero-header {
-	background: #133F7F;
-	min-height: 600px;
+	background: #EEE;
+	min-height: 500px;
 	padding: 5em;
-	color: #fff;
+	color: #094844;
 }
 .hero-header h1 {
 	margin: 1em 0 0 0;
@@ -123,13 +123,13 @@ a:hover, a:focus, a:active, a:visited {
     margin: 2em 0;
 }
 .hero-header .logo {
-	max-width: 180px;
+	max-width: 600px;
 }
 .hero-header .btn {
 	margin-top: 3em;
 }
-.hero-header .rocket {
-	max-width: 100%;
+.building {
+	max-width: 45%;
 }
 .me-row {
 	padding: 30px 0;
@@ -143,7 +143,7 @@ a:hover, a:focus, a:active, a:visited {
 }
 .feature span {
 	font-size: 5em;
-    color: #016cc7;
+    color: #13A89E;
 }
 
 .speaker .feature {
